@@ -1,0 +1,18 @@
+cd folder name
+cd..
+cls
+explorer --   inna folder eka details balnna
+chdir   check now in directory
+dir   all the directory\
+cd F:    
+md here     ////folder ekak hadanna aluthin
+rmdir here //delete folder
+rem maka "r.txt"  //rename file
+del "r.txt" "p.txt"
+
+exit //comant front close
+hello //monw hari echo krnna
+
+type "y.txt" //doc eka athule thiyena content eka blanna
+
+fc "x.txt" "y.txt" //compare krnw
